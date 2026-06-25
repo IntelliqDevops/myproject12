@@ -1,0 +1,15 @@
+1 What are Build Triggers in Jenkins?
+
+2 How do you execute a shell script in a Freestyle Project?
+
+3 What are artifacts in Jenkins?
+
+4 How can you schedule a Freestyle Project?
+
+5 What is a downstream project?
+
+6 What is a workspace in Jenkins?
+
+7 How do you view build logs in Jenkins?
+
+Send the solutions to intelliqittrainings@gmail.com
